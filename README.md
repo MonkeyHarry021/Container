@@ -7,4 +7,5 @@
 **是否可以一次将多个修改文件加入到暂存区，再一起提交？**
 
 - feature-A
-- fix-B
+- fix-BB
+- feature-CC
